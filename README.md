@@ -1,4 +1,4 @@
-```markdown
+
 # Hostinoz WHM Migrator 🚀
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -155,4 +155,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 *Brought to you by Hostinoz.com - Empowering your digital journey.*
-```
