@@ -58,7 +58,7 @@ Getting the script up and running takes less than 5 minutes.
 1. **Download the Script**
    Clone the repository or download the ZIP file and upload the contents to your web server (e.g., `public_html` or a subdomain like `migrate.yourdomain.com`).
    ```bash
-   git clone https://github.com/yourusername/hostinoz-whm-migrator.git
+   git clone https://github.com/shaikatssj/hostinoz-whm-migrator.git
    ```
 
 2. **Create a Database**
